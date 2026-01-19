@@ -6,7 +6,7 @@ O programa escolhe um número aleatório dentro de um intervalo (ex: 1 a 10).
 O usuário tenta adivinhar digitando um palpite.
 Se acertar: o programa avisa que o número está correto.
 Se errar: informa que não acertou.
-[21:30, 1/18/2026] Enzo: 🧩 Tecnologias Usadas
+🧩 Tecnologias Usadas
 Python 3
 Módulo random
 🎯 Objetivo do Projeto
